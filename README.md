@@ -9,7 +9,7 @@ From there we were able to create a risk classification to perform binary value 
 The combined resulting dataset was implemented by a KNN model to identify the best possible area for relocation.
 
 Team Members:
-Reva Sharma
-Kavya Shyam
-William Zhang
+Reva Sharma,
+Kavya Shyam,
+William Zhang,
 Edward Lu
